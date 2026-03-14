@@ -1,10 +1,14 @@
 <div align="center">
 
-<h1>Hi 👋, I'm <span>Muhammad Rizky Zuhriansyah</span></h1>
+<h1>Hi 👋, I'm Muhammad Rizky Zuhriansyah</h1>
 
 <p>💻 Aspiring Developer &nbsp;·&nbsp; 🎨 Beginner Designer &nbsp;·&nbsp; 🎮 Gamer at Heart</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Aspiring+Developer+💻;Beginner+Designer+🎨;Gamer+at+Heart+🎮;Always+Learning+New+Things+🚀"/>
+
+<br/>
+
+![](https://img.shields.io/badge/📍_Indonesia-Open_to_Opportunities-bd93f9?style=flat-square&labelColor=282a36)
 
 </div>
 
@@ -24,25 +28,25 @@
 
 **Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=50fa7b)
-![Java](https://img.shields.io/badge/Java-282a36?style=flat-square&logo=openjdk&logoColor=50fa7b)
-![PHP](https://img.shields.io/badge/PHP-282a36?style=flat-square&logo=php&logoColor=50fa7b)
-![JavaScript](https://img.shields.io/badge/JavaScript-282a36?style=flat-square&logo=javascript&logoColor=50fa7b)
-![C](https://img.shields.io/badge/C-282a36?style=flat-square&logo=c&logoColor=50fa7b)
-![HTML](https://img.shields.io/badge/HTML%2FCSS-282a36?style=flat-square&logo=html5&logoColor=50fa7b)
+![Python](https://img.shields.io/badge/Python-50fa7b?style=flat-square&logo=python&logoColor=282a36)
+![Java](https://img.shields.io/badge/Java-50fa7b?style=flat-square&logo=openjdk&logoColor=282a36)
+![PHP](https://img.shields.io/badge/PHP-50fa7b?style=flat-square&logo=php&logoColor=282a36)
+![JavaScript](https://img.shields.io/badge/JavaScript-50fa7b?style=flat-square&logo=javascript&logoColor=282a36)
+![C](https://img.shields.io/badge/C-50fa7b?style=flat-square&logo=c&logoColor=282a36)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-50fa7b?style=flat-square&logo=html5&logoColor=282a36)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-282a36?style=flat-square&logo=mysql&logoColor=ffb86c)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282a36?style=flat-square&logo=postgresql&logoColor=ffb86c)
-![MongoDB](https://img.shields.io/badge/MongoDB-282a36?style=flat-square&logo=mongodb&logoColor=ffb86c)
+![MySQL](https://img.shields.io/badge/MySQL-ffb86c?style=flat-square&logo=mysql&logoColor=282a36)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffb86c?style=flat-square&logo=postgresql&logoColor=282a36)
+![MongoDB](https://img.shields.io/badge/MongoDB-ffb86c?style=flat-square&logo=mongodb&logoColor=282a36)
 
 **Tools & Others**
 
-![Git](https://img.shields.io/badge/Git-282a36?style=flat-square&logo=git&logoColor=8be9fd)
-![Linux](https://img.shields.io/badge/Linux-282a36?style=flat-square&logo=linux&logoColor=8be9fd)
-![Photoshop](https://img.shields.io/badge/Photoshop-282a36?style=flat-square&logo=adobephotoshop&logoColor=8be9fd)
-![Illustrator](https://img.shields.io/badge/Illustrator-282a36?style=flat-square&logo=adobeillustrator&logoColor=8be9fd)
+![Git](https://img.shields.io/badge/Git-8be9fd?style=flat-square&logo=git&logoColor=282a36)
+![Linux](https://img.shields.io/badge/Linux-8be9fd?style=flat-square&logo=linux&logoColor=282a36)
+![Photoshop](https://img.shields.io/badge/Photoshop-8be9fd?style=flat-square&logo=adobephotoshop&logoColor=282a36)
+![Illustrator](https://img.shields.io/badge/Illustrator-8be9fd?style=flat-square&logo=adobeillustrator&logoColor=282a36)
 
 ---
 
@@ -75,6 +79,7 @@
   <a href="mailto:rizkyzuhriansyah4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/iam.somraa/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
